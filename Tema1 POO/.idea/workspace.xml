@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f016321-ef78-492f-8679-130e4dedc143" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sd8r7LFDv5cwkPOToGDNkb44eX" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/FileIO.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\IdeaProjects\tema1\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.tema1.main.Main" />
+      <module name="tema1" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\USER\Desktop\IdeaProjects\tema1\src\checker\tests\in\4round5players-mixed-test1.in C:\Users\USER\Desktop\IdeaProjects\tema1\src\checker\tests\out\4round5players-mixed-test1.out" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f016321-ef78-492f-8679-130e4dedc143" name="Default Changelist" comment="" />
+      <created>1571882307922</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571882307922</updated>
+      <workItem from="1571882309157" duration="342000" />
+      <workItem from="1571882657535" duration="3895000" />
+      <workItem from="1571886766253" duration="102000" />
+      <workItem from="1571886926270" duration="219000" />
+      <workItem from="1571887252595" duration="2482000" />
+      <workItem from="1571978916247" duration="3384000" />
+      <workItem from="1572064502704" duration="3948000" />
+      <workItem from="1572069533964" duration="41276000" />
+      <workItem from="1572166842367" duration="7661000" />
+      <workItem from="1572189858925" duration="2000" />
+      <workItem from="1572189988103" duration="4000" />
+      <workItem from="1572334677840" duration="223000" />
+      <workItem from="1572359037999" duration="9649000" />
+      <workItem from="1572378968274" duration="1809000" />
+      <workItem from="1572420173591" duration="11093000" />
+      <workItem from="1572444063517" duration="34000" />
+      <workItem from="1572463050833" duration="408000" />
+      <workItem from="1572550328965" duration="2273000" />
+      <workItem from="1572591489838" duration="2447000" />
+      <workItem from="1572938543241" duration="39939000" />
+      <workItem from="1573207455728" duration="3000" />
+      <workItem from="1573225440464" duration="24793000" />
+      <workItem from="1573315464541" duration="847000" />
+      <workItem from="1573316336601" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="players" />
+        <watch expression="players.get(0)" />
+        <watch expression="players.get(0)" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

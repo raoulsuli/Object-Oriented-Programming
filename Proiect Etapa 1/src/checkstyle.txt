@@ -1,0 +1,5 @@
+Starting audit...
+[ERROR] /mnt/c/Users/USER/Desktop/IdeaProjects/Proiect Etapa 1/src/heroes/Hero.java:65:5: Class 'Hero' looks like designed for extension (can be subclassed), but the method 'getType' does not have javadoc that explains how to do that safely. If class is not designed for extension consider making the class 'Hero' final or making the method 'getType' static/final/abstract/empty, or adding allowed annotation for the method. [DesignForExtension]
+[ERROR] /mnt/c/Users/USER/Desktop/IdeaProjects/Proiect Etapa 1/src/main/Game.java:3:8: Unused import - angels.Angel. [UnusedImports]
+Audit done.
+Checkstyle ends with 2 errors.
