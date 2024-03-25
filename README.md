@@ -1,4 +1,4 @@
-# Object-Oriented-Programming
+# Object Oriented Programming
 ## Faculty of Automatics and Computer Science Course (2019-2020)
 ### 2nd Year, 1st Semester
 #### The repository contains two assignments:
